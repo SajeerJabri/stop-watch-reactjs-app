@@ -6,6 +6,7 @@ const cacheFiles = [
     './static/js/main.e926641a.chunk.js',
     './static/js/2.e0e2074e.chunk.js',
     './static/css/main.fe1882c1.chunk.css',
+    './favicon.ico',
     './'
 ]
 
