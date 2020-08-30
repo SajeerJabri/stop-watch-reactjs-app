@@ -1,0 +1,58 @@
+.btnStyle{
+    margin-top: 50px;
+}
+.startBtn{
+    padding: 40px 35px;
+    background-color: #fb5607;
+    outline: none;
+    border: none;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    font-size: 25px;
+    transition: background 0.3s ease;
+}
+.stopBtn{
+    padding: 42px 37px;
+    background-color: #ff006e;
+    outline: none;
+    border: none;
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    font-size: 25px;
+    transition: background 0.3s ease;
+}
+.resetBtn{
+    padding: 40px 33px;
+    background-color: #8338ec;
+    outline: none;
+    border: none;
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    font-size: 25px;
+    transition: background 0.3s ease;
+}
+.resumeBtn{
+    padding: 40px 25px;
+    background-color: #3a86ff;
+    outline: none;
+    border: none;
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    font-size: 25px;
+    transition: background 0.3s ease;
+}
+.startBtn:hover{
+    background: #3a86ff;
+}
+.stopBtn:hover{
+    background: #fb5607;
+}
+.resetBtn:hover{
+    background: #3a86ff;
+}
+.resumeBtn:hover{
+    background: #ff006e;
+}
