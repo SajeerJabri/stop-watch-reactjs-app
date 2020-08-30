@@ -3,9 +3,9 @@ const appVersion = "stopWatch.0";
 const cacheFiles = [
     './static/media/clock.9f408107.png',
     './index.html',
-    './static/js/0.chunk.js',
-    './static/js/bundle.js',
-    './static/js/main.chunk.js',
+    './static/js/main.e926641a.chunk.js',
+    './static/js/2.e0e2074e.chunk.js',
+    './static/css/main.fe1882c1.chunk.css',
     './'
 ]
 
